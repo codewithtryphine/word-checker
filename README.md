@@ -22,4 +22,4 @@ This mimics real features used in apps you use every day:
 
 ## 🚀 How to Run
 ```bash
-python text_checker.py
+python word checker.py
